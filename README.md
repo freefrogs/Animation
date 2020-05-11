@@ -2,7 +2,7 @@
 
 It is my training project as a part of Daftacademy Front-end Level UP 2020
 
-**Check** at :point_right: [Heroku]()
+**Check** at :point_right: [github pages](https://freefrogs.github.io/Animation/)
 
 ### Used technologies:
 * JavaScript (including ES6+ & DOM events)

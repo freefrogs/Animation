@@ -1,5 +1,5 @@
-import {visibleHeightAtZDepth, visibleWidthAtZDepth, lerp} from "../utils.js"
-import {nextSlide, prevSlide} from "../main.js"
+import {visibleHeightAtZDepth, visibleWidthAtZDepth, lerp} from "./utils.js"
+import {nextSlide, prevSlide} from "./main.js"
 
 
 const scene = new THREE.Scene()
@@ -19,7 +19,7 @@ let arrowBox = []
 let arrowBoxRotation = 0
 
 objLoader.load(
-    'models/cube.obj',
+    'public/models/cube.obj',
     ({children}) => {
       const screenBorderRight = visibleWidthAtZDepth(-10, camera) / 2
       const screenBottom = -visibleHeightAtZDepth(-10, camera) / 2
