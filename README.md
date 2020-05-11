@@ -1,6 +1,6 @@
-## :grin: Homework
+## :grin: Animation
 
-It is my training project as a part of Daftacademy Front-end Level UP 2020
+It is my training project as a part of [Daftacademy](https://daftacademy.pl/) [Front-end Level UP 2020](https://github.com/daftcode/daftacademy-frontend_levelup-spring2020)
 
 **Check** at :point_right: [github pages](https://freefrogs.github.io/Animation/)
 
